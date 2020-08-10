@@ -2,11 +2,10 @@
 
 namespace Mix\Process;
 
-use Mix\Coroutine\Coroutine;
-
 /**
  * Class Process
  * @package Mix\Process
+ * @deprecated 废弃，使用 Mix\Console\Process 取代
  */
 class Process
 {
